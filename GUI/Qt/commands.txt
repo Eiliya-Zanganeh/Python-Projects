@@ -1,0 +1,3 @@
+pyside6-designer
+pyside6-uic main.ui -o main_ui.py
+pyside6-uic main.ui > main_ui.py
